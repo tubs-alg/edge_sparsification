@@ -1,0 +1,1 @@
+include_directories(${CMAKE_BASE_DIR}/definitions/include)
