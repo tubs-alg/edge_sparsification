@@ -14,3 +14,5 @@ There is one jupyter notebook for each problem.
 The code is written in C++ and requires CPLEX, Gurobi, and CGAL to be compiled as a whole.
 We recommend to just copy the code snippets you need and adapt them to your own code.
 This way you are not required to set up all dependencies, which can be quite cumbersome.
+The code is barely documented, as its primary purpose was to create the data for the paper.
+The evaluation of the data, on the other hand, is documented in the jupyter notebooks.
