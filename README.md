@@ -2,7 +2,7 @@
 
 *Sándor P. Fekete, Phillip Keldenich, Dominik Krupke, and Eike Niehs (TU Braunschweig, Algorithms Group, 2023)*
 
-This repository contains the source code and the data for the paper "Edge Sparsification for Geometric Tour Problems" by Sándor P. Fekete, Phillip Keldenich, Dominik Krupke, and Eike Niehs (TU Braunschweig, Algorithms Group, 2023).
+This repository contains the source code and the data for the (not yet published) paper "Edge Sparsification for Geometric Tour Problems" by Sándor P. Fekete, Phillip Keldenich, Dominik Krupke, and Eike Niehs (TU Braunschweig, Algorithms Group, 2023).
 
 The data is stored in compressed pandas dataframes, individually for each problem.
 Due to the size of the data (7 GB), we do not provide the concrete sparsified graphs or the computed solutions, but only the metadata.
